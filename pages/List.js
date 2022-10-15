@@ -80,10 +80,10 @@ export default function ListTodo({ navigation }) {
                 borderColor="#737373"
                 borderWidth="1"
               >
-                <Select.Item label="Frontend" value="Frontrend" />
+                <Select.Item label="Spesialis" value="spesialis" />
                 <Select.Item
-                  label="Backend"
-                  value="Backend"
+                  label="non spesialis"
+                  value="non spesialis"
                   borderColor="#737373"
                   borderWidth="1"
                 />
